@@ -1,6 +1,8 @@
 # The Traveller's Handbook
 An app that provides basic information on a given city.
 
+Deployed site: https://gusgonz.github.io/Traveller-Handbook/
+
 ## Table of Contents 
 * [Description](#Description)
 * [Screenshots/Demo](#Screenshots/Demo)
